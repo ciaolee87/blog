@@ -20,24 +20,22 @@
 | 책이름 (정리 링크)                                           | 독서일                 | 소개                                             | 기타                                       |
 |-------------------------------------------------------|---------------------|------------------------------------------------|------------------------------------------|
 | [C++ Prime plus 6th](books/cppPrimePlus6th/readme.md) | 23.01.19 ~ now      | C++ 기본서적                                       |                                          |
+| [이득우의 게임수학](books/gameMath/readme.md)                 | 23.01.13 ~ 잠시 중단    |                                                | 기본 Cpp 기술이 필요하여, CPP 기초공부 후 다시 독서하기로 결정  |
 | 인생 유니티 교과서                                            | 23.01.02 ~ 23.01.13 | 유니티 엔진 튜토리얼                                    |                                          |
 | 인생 언리얼 교과서                                            | 22.12.01 ~ 22.12.20 | 언리얼 엔진 튜토리얼                                    | 인생 xxx 두 책은 진행방식(예제) 가 같다. 비교해서 공부하기 좋다. |
 | 데이터 중심 어플리케이션                                         | 22.12.21 ~ 23.01.16 | 마이크로서비스, 효율적인 데이터 관리를 위한 개념서                   |                                          |
 | 처음 시작하는 마이크로 서비스                                      | 22.13.19 ~ 22.12.21 | 마이크로서비스 서버 구축 개념서                              |                                          |
 | 토비의 스프링  Vol1, 2                                      |                     | Vol1: 자바를 통한 프로그램 언어의 이해, Vol2: Java 스프링 프레임워크 | 1권은 필독서, 자바통한 아니라 객체지향 프로그래밍의 기본 소개      |
 
-* 이득우의 게임수학 [(정리)](books/gameMath/readme.md)
-    * 기본 Cpp 기술이 필요하여, CPP 기초공부 후 다시 독서하기로 결정
-
 ## Career
 
-| 년도   | 주요 참여 프로젝트                | 주요 사용기술                                                                   | 기타  |
-|------|---------------------------|---------------------------------------------------------------------------|-----|
-| 2023 | 해외대량문자 서비스 버전 업데이트 (v3)   | Go, TS, React, Apollo GraphQL, SAM, AWS Services                          |     |
-| 2022 | P2P 가상화폐(트론) 거래 서비스 개발    | Go, TS,  React, WebSocket, Message queue, AWS Services                    |     |
-| 2021 | 해외대량문자 전송 서비스 개발          | Go, Angular, React, TS, Message queue, AWS Services, Docker               |     |
-| 2020 | 가상화폐 거래소 (포블게이트) 프론트 담당   | JS, React, Node Express, CI/CD (Jenkins)                                  |     |
-| 2019 | 가상화폐(이더리움) 트레이닝 플렛폼 개발    | JS, HTML, CSS, Angular, Ionic, Docker, jQuery, Java, Spring, Node Express |     |
-| 2018 | 가상화폐(이더리움) 관련 앱 및 홈페이지 작성 | JS, HTML, CSS, jQuery, Angular, Ionic                                     |     |
+| 년도 (상세 링크)              | 주요 참여 프로젝트                | 주요 사용기술                                                                   | 기타  |
+|-------------------------|---------------------------|---------------------------------------------------------------------------|-----|
+| 2023                    | 해외대량문자 서비스 버전 업데이트 (v3)   | Go, TS, React, Apollo GraphQL, SAM, AWS Services                          |     |
+| 2022                    | P2P 가상화폐(트론) 거래 서비스 개발    | Go, TS,  React, WebSocket, Message queue, AWS Services                    |     |
+| 2021                    | 해외대량문자 전송 서비스 개발 (v1, v2) | Go, Angular, React, TS, Message queue, AWS Services, Docker               |     |
+| 2020                    | 가상화폐 거래소 (포블게이트) 프론트 담당   | JS, React, Node Express, CI/CD (Jenkins)                                  |     |
+| 2019                    | 가상화폐(이더리움) 트레이닝 플렛폼 개발    | JS, HTML, CSS, Angular, Ionic, Docker, jQuery, Java, Spring, Node Express |     |
+| [2018](careers/2018.md) | 가상화폐(이더리움) 관련 앱 및 홈페이지 작성 | JS, HTML, CSS, jQuery, Angular, Ionic                                     |     |
 
 * 년도 클릭시 자세한 히스토리 목록으로 이동.
